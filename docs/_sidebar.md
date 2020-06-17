@@ -2,6 +2,13 @@
 
   - [About](about.md)
 
+- 📹YouTube Information API
+
+  - [About](youtube-info/about.md)
+
+  - [Requests](youtube-info/requests.md)
+    - - [Video Information](youtube-info/requests.md?id=request-information-of-youTube-video)
+
 - 📹YouTube Search API
 
   - [About](youtube-search/about.md)
