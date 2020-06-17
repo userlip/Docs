@@ -1,11 +1,11 @@
 - 🔥Getting started
 
-  - [About](/docs/about.md)
+  - [About](about.md)
 
 - 📹YouTube Search API
 
-  - [About](/docs/youtube-search/about.md)
+  - [About](youtube-search/about.md)
 
-  - [Requests](/docs/youtube-search/requests.md)
-    - - [First Page](/docs/youtube-search/requests.md?id=request-first-page-of-youtube-search-results)
-    - - [Pagination](/docs/youtube-search/requests.md?id=pagination-example)
+  - [Requests](youtube-search/requests.md)
+    - - [First Page](youtube-search/requests.md?id=request-first-page-of-youtube-search-results)
+    - - [Pagination](youtube-search/requests.md?id=pagination-example)
