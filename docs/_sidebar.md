@@ -2,7 +2,7 @@
 
   - [About](about.md)
 
-- 📹YouTube Information API
+- 🛍Amazon Search API
 
   - [About](amazon-search/about.md)
 
