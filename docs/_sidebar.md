@@ -4,6 +4,13 @@
 
 - 📹YouTube Information API
 
+  - [About](amazon-search/about.md)
+
+  - [Requests](amazon-search/requests.md)
+    - - [Search Products](amazon-search/requests.md?id=search-for-products)
+
+- 📹YouTube Information API
+
   - [About](youtube-info/about.md)
 
   - [Requests](youtube-info/requests.md)
