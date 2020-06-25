@@ -8,6 +8,8 @@
 
   - [Requests](amazon-search/requests.md)
     - - [Search Products](amazon-search/requests.md?id=search-for-products)
+    - - [Product Reviews](amazon-search/requests.md?id=product-reviews)
+    - - [Product Information](amazon-search/requests.md?id=product-information)
 
 - 📹YouTube Information API
 
