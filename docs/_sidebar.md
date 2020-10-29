@@ -16,9 +16,10 @@
   - [About](tennis-data/about.md)
 
   - [Requests](tennis-data/requests.md)
-    - - [Search Products](amazon-search/requests.md?id=search-for-products)
-    - - [Product Reviews](amazon-search/requests.md?id=product-reviews)
-    - - [Product Information](amazon-search/requests.md?id=product-information)
+    - - [Find Tournaments](tennis-data/requests.md?id=find-tournaments)
+    - - [Get Tournament by ID](tennis-data/requests.md?id=get-tournament-by-id)
+    - - [Get Matches](tennis-data/requests.md?id=get-matches)
+    - - [Get Players](tennis-data/requests.md?id=get-players)
 
 - 📹YouTube Information API
 
